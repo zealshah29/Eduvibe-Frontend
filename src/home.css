@@ -1,0 +1,65 @@
+.main-logo {
+  color: #46f481;
+  font-family: sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  font-style: normal;
+  letter-spacing: 0.04em;
+}
+
+.carousel-content {
+  position: absolute;
+  bottom: 25%;
+  padding: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border-radius: 8px;
+  left: 8%;
+  z-index: 20;
+  color: #ffffff;
+  background: #00b43d;
+
+  font-family: inherit;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-decoration: none;
+}
+#img2 {
+  left: 20%;
+}
+#img1 {
+  left: 18%;
+}
+#img3 {
+  left: 17%;
+}
+.dots {
+  width: 15px;
+  height: 15px;
+  gap: 14px;
+  color: #00b43d;
+}
+.carousel-content-2 {
+  position: absolute;
+  bottom: 15%;
+  padding: 3px;
+  left: 10%;
+  z-index: 20;
+
+  border-radius: 5px;
+  font-family: inherit;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-decoration: none;
+  font-size: 18px;
+  line-height: 25px;
+  /* identical to box height */
+  letter-spacing: 0.04em;
+  color: #575757;
+}
+#home-content1 {
+  left: 8%;
+}
+#home-content-3 {
+  left: 8%;
+}
