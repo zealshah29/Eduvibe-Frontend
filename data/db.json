@@ -1,0 +1,16 @@
+{
+    "reminders": [
+      {
+        "task": "plan",
+        "start_time": "2:00",
+        "date": "31st dec",
+        "id": 1
+      },
+      {
+        "task": "complete",
+        "start_time": "2:45",
+        "date": "31st dec",
+        "id": 2
+      }
+    ]
+  }

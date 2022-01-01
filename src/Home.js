@@ -6,8 +6,7 @@ import img3 from "./home-img3.png";
 import "./home.css";
 export function Home() {
   let navStyle = {
-    width: "1366px",
-    height: "81px",
+    width: "100%",
     background: "white",
     boxShadow: "0px 1px 50px rgba(0,0,0,0.07)",
   };
@@ -42,7 +41,7 @@ export function Home() {
             <Link className="carousel-content " id="img2" to="/login">
               <div>Login</div>
             </Link>
-            <p className="carousel-content-2">
+            <p className="carousel-content-2" id="home-content-2">
               Don't have an account? <Link to="#">Sign up for free</Link>
             </p>
           </div>
