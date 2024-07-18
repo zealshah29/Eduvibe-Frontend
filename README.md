@@ -1,3 +1,23 @@
+# Eduvibe Website
+## Project Overview
+Eduvibe is an educational website developed by a team of 7 to assist students in self-study. It features three main functionalities: organizing study materials, planning work schedules, and enhancing focus during study sessions.
+
+## Tech Stack
+1. Frontend: React
+2. Design: Figma for UI/UX design
+
+## Key Features
+1. Organize Study Materials: Manage and categorize study resources such as notes, documents, and links.
+2. Plan Work: Create and track study schedules and tasks to ensure productive study sessions.
+3. Enhance Focus: Implement tools or techniques to help students maintain concentration and minimize distractions.
+
+## Demo
+https://www.figma.com/proto/6AAg27cKcaTkLW7AHEVlVK/self-study?node-id=0-1&t=j0OCAxpHUkL73EE4-0&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=39%3A100&show-proto-sidebar=1
+
+## Team Collaboration
+Roles: Divided responsibilities among 7 team members for frontend development, design implementation, and feature integration.
+
+_______________________________________________________________________________________________________________________________________________________________________
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
